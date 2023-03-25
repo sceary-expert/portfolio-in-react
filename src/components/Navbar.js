@@ -18,8 +18,6 @@ const Navbar= () =>{
         <Link to='/achievements'>Achievements</Link>
       </li> 
     </ul>
-  
-  
   </nav>
   );
 }
