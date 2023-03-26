@@ -6,6 +6,11 @@ const Achievements = () =>{
             <h1>Achievement</h1>
             <h1>Achievement</h1>
             <h1>Achievement</h1>
+            <h1>Achievement</h1>
+            <h1>Achievement</h1>
+            <h1>Achievement</h1>
+            <h1>Achievement</h1>
+            <h1>Achievement</h1>
         </div>
         )
 }
