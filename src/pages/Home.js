@@ -7,7 +7,7 @@ const Home = () =>{
             <div className="parent">
                 <div className="child left">
                     <div className="tagline">
-                        <h1>"From server to browser, I've got you covered."</h1>                
+                        <h1>"From server<br/> to browser, <br/>I've got you covered."</h1>                
                     </div>
                     <div className="download-resume">
                         <button>Download Resume</button>
