@@ -44,8 +44,8 @@
 
 
 }
-.navbar li a:hover{
-	/* this style should be applied when hovering over parent div */
+/* .parent:hover .child */
+.navbar li:hover a {
 	color: aliceblue;
 	
-}
+ }
